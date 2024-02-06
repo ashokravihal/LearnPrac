@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("https://unsplash.com/photos/man-and-woman-kissing-hQuQwfY8QoE");
+  background-image: url("filipe-almeida-hQuQwfY8QoE-unsplash.jpg");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,16 +19,16 @@ body {
 
 @keyframes animation {
   0% {
-    background-image: url("https://unsplash.com/photos/man-and-woman-kissing-hQuQwfY8QoE");
+    background-image: url("filipe-almeida-hQuQwfY8QoE-unsplash.jpg");
   }
   25% {
-    background-image: url("https://unsplash.com/photos/man-and-woman-kissing-hQuQwfY8QoE");
+    background-image: url("filipe-almeida-hQuQwfY8QoE-unsplash.jpg");
   }
   50% {
-    background-image: url(" https://unsplash.com/photos/man-and-woman-kissing-hQuQwfY8QoE");
+    background-image: url(" filipe-almeida-hQuQwfY8QoE-unsplash.jpg");
   }
   80% {
-    background-image: url("https://unsplash.com/photos/man-and-woman-kissing-hQuQwfY8QoE");
+    background-image: url("filipe-almeida-hQuQwfY8QoE-unsplash.jpg");
   }
 }
 
